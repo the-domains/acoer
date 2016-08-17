@@ -1,0 +1,14 @@
+layout_spectrum: 0.6903847572393715
+typography_spectrum: 0.8151252891402692
+color:
+  brandStrength: 0.8848811101634055
+  lightness: 0.47428172267973423
+  saturation: 0.39792104018852115
+  rhythmicContrast: 0.6046641189604998
+  brandColors:
+    - '#4068AE'
+    - '#E82328'
+    - '#000000'
+    - '#0000FF'
+    - '#008080'
+name: acoer
